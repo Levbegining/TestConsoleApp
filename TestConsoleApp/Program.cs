@@ -10,7 +10,8 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("heloo wordle");
+            Console.ReadLine();
         }
     }
 }
